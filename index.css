@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.2;
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+}
+h1 {
+    color: #333;
+}
+h2 {
+    color: green;
+}
+h3 {
+    color: blue;
+}
+.section-title {
+    font-weight: bold;
+    margin-top: 10px;
+    color: green;
+}
+.contact-info, .skills, .education, .experience, .internet {
+    margin-bottom: 5px;
+}
+ul {
+margin-left: -20px;
+ 
+}
+.containers{
+  border: solid black 2px ;
+  padding: 10px; 
+
+}
+hr{
+    border: solid black 1px;
+   margin-top: 40px;
+}
+.inner{
+    margin: 50px;
+}
+.internet a{
+    margin-top: 20px;
+
+    padding: 20px;
+}
+.image{
+    width: 30px;
+    margin-top: px;
+    padding: -20px;
+}
